@@ -1,0 +1,4 @@
+# Godot cache and export folders
+.godot/
+export.cfg
+export_presets.cfg
